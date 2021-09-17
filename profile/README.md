@@ -13,15 +13,17 @@ Virtual Coffee's mission is to be a welcoming tech community that allows room fo
 ------
 Here are some of the things that sponsorship money will go to support:
 
-* Twice-Weekly Coffee Chats
-* Member-led Presentations and Workshops
+* Twice-Weekly [Coffee Chats](https://virtualcoffee.io/events/)
+* Member-led [Presentations and Workshops]( https://www.youtube.com/playlist?list=PLh9uT23TA65idCyc_orC85RefgY_-fKsG)
 * A weekly [podcast](https://virtualcoffee.io/podcast/) sharing the stories of our members
 * A monthly [newsletter](https://virtualcoffee.io/newsletter/) with Virtual Coffee news and interesting things our members are doing
 * Our growing Slack community
-* The Virtual Coffee Co-Working Room
-* Lightning Talks
-* The Virtual Coffee Hacktoberfest Initiative
+* The Virtual Coffee [Co-Working Room](https://dev.to/virtualcoffee/how-the-virtual-coffee-coworking-room-works-2a89)
+* [Lightning Talks](https://www.youtube.com/playlist?list=PLh9uT23TA65infGqUUaVibI0IssI0G6NY)
+* The Virtual Coffee [Hacktoberfest Initiative](https://hacktoberfest.virtualcoffee.io)
 and lots more!
+
+
 Be sure to check out the [one-time](https://github.com/sponsors/Virtual-Coffee?frequency=one-time) sponsorship tiers for some more options!
 
 Learn with us!
@@ -35,7 +37,7 @@ To become a member of Virtual Coffee, all you need to do is attend [a Tuesday or
 ### What's the code of conduct?
 In order to create a welcoming and inclusive community, we pledge to make participation in our community a harassment-free experience for everyone, regardless of age, body size, visible or invisible disability, ethnicity, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation.
 
-[Read more](https://github.com/Virtual-Coffee/virtualcoffee.io/blob/main/CODE_OF_CONDUCT.md) about how we enforce this and cultivate a community that assumes good intent.
+[Read more](https://virtualcoffee.io/code-of-conduct) about how we enforce this and cultivate a community that assumes good intent.
 ### Can I contribute here on Github? :computer:
 Absolutely! Check out our [open issues](https://github.com/Virtual-Coffee/virtualcoffee.io/issues) and [Contributing Guide](https://github.com/Virtual-Coffee/virtualcoffee.io/blob/main/CONTRIBUTING.md)!
 

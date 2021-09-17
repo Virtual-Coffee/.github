@@ -1,4 +1,4 @@
-![Virtual Coffee full logo - brackets and carets making a mug shape before the words "Virtual Coffee"](virtual-coffee-full.png)
+![Virtual Coffee full logo - brackets and carets making a mug shape before the words "Virtual Coffee"](../virtual-coffee-full.png)
 
 
 :coffee: Welcome to Virtual Coffee! :coffee:

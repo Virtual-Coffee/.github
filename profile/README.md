@@ -1,4 +1,4 @@
-![Virtual Coffee full logo - brackets and carets making a mug shape before the words "Virtual Coffee"](../virtual-coffee-full.png)
+![Virtual Coffee full logo - brackets and carets making a mug shape before the words "Virtual Coffee"](https://github.com/Virtual-Coffee/.github/raw/main/virtual-coffee-full.png)
 
 
 :coffee: Welcome to Virtual Coffee! :coffee:
@@ -28,7 +28,7 @@ Be sure to check out the [one-time](https://github.com/sponsors/Virtual-Coffee?f
 
 Learn with us!
 ------
-[<img src="../TheJoyOfDevLifePreview.png" alt-text="A youtube video thumbnail showing 'Bekah Hawrot Wigel @BekahHW The Joy of Dev Life: A Bob Ross Guide' on a background of mountains and trees" width="400px">](https://www.youtube.com/c/virtualcoffeeio)
+[![A youtube video thumbnail showing 'Bekah Hawrot Wigel @BekahHW The Joy of Dev Life: A Bob Ross Guide'][https://github.com/Virtual-Coffee/.github/raw/main/TheJoyOfDevLifePreview.png]][https://www.youtube.com/c/virtualcoffeeio]
 
 FAQs :pencil:
 ------

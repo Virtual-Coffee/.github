@@ -28,7 +28,7 @@ Be sure to check out the [one-time](https://github.com/sponsors/Virtual-Coffee?f
 
 Learn with us!
 ------
-[![A youtube video thumbnail showing 'Bekah Hawrot Wigel @BekahHW The Joy of Dev Life: A Bob Ross Guide'][https://github.com/Virtual-Coffee/.github/raw/main/TheJoyOfDevLifePreview.png]][https://www.youtube.com/c/virtualcoffeeio]
+[![A youtube video thumbnail showing 'Bekah Hawrot Wigel @BekahHW The Joy of Dev Life: A Bob Ross Guide'](https://github.com/Virtual-Coffee/.github/raw/main/TheJoyOfDevLifePreview.png)](https://www.youtube.com/c/virtualcoffeeio)
 
 FAQs :pencil:
 ------

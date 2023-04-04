@@ -41,7 +41,7 @@ In order to create a welcoming and inclusive community, we pledge to make partic
 ### Can I contribute here on Github? :computer:
 Absolutely! Check out our [open issues](https://github.com/Virtual-Coffee/virtualcoffee.io/issues) and [Contributing Guide](https://github.com/Virtual-Coffee/virtualcoffee.io/blob/main/CONTRIBUTING.md)!
 
-If you're [a member](https://virtualcoffee.io/members/) don't foreget to [add yourself](https://github.com/Virtual-Coffee/virtualcoffee.io/issues/13).
+If you're [a member](https://virtualcoffee.io/members/) don't forget to [add yourself](https://github.com/Virtual-Coffee/virtualcoffee.io/issues/13).
 
 Contact us!
 ------

@@ -10,17 +10,27 @@ Virtual Coffee's mission is to be a welcoming tech community that allows room fo
 
 ## [Sponsor Us!](https://github.com/sponsors/Virtual-Coffee)
 
-Here are some of the things that sponsorship money will go to support:
+Virtual Coffee has been a home for developers looking for connection, encouragement, accountability, and support since 2020.
 
-- Twice-Weekly [Coffee Chats](https://virtualcoffee.io/events/)
-- Member-led [Presentations and Workshops](https://www.youtube.com/playlist?list=PLh9uT23TA65idCyc_orC85RefgY_-fKsG)
-- A weekly [podcast](https://virtualcoffee.io/podcast/) sharing the stories of our members
-- A monthly [newsletter](https://virtualcoffee.io/newsletter/) with Virtual Coffee news and interesting things our members are doing
-- Our growing Slack community
-- The Virtual Coffee [Co-Working Room](https://dev.to/virtualcoffee/how-the-virtual-coffee-coworking-room-works-2a89)
-- [Lightning Talks](https://www.youtube.com/playlist?list=PLh9uT23TA65infGqUUaVibI0IssI0G6NY)
-- The Virtual Coffee [Hacktoberfest Initiative](https://hacktoberfest.virtualcoffee.io)
-  and lots more!
+We’ve hosted thousands of coffees, challenges, conversations, study groups, and community events. We’ve helped people find jobs, make friends, contribute to open source, keep going through hard seasons, and feel less alone in tech.
+
+Right now, Virtual Coffee needs help.
+
+Our community has always been volunteer-led, but the tools and infrastructure that keep it running still cost money. We are currently unable to cover our basic expenses.
+
+Sponsoring Virtual Coffee helps us keep the community available while we work toward a more sustainable future.
+
+We’re keeping our sponsor tiers simple because we don’t want to promise more work than our volunteers can realistically maintain. Your sponsorship is not buying ads, content, or promotion. It is helping to keep an independent developer community alive.
+
+Here's more about what we're currently doing:
+
+- Twice-weekly [Coffee Chats](https://virtualcoffee.io/events)
+- Member-led [presentations and workshops](https://virtualcoffee.io/events)
+- Maintaining our Slack community
+- The Virtual Coffee Co-Working Room
+- Lightning Talks
+- The Virtual Coffee Hacktoberfest Initiative
+- [Tech Resources](https://virtualcoffee.io/resources/developer-resources)
 
 Be sure to check out the [one-time](https://github.com/sponsors/Virtual-Coffee?frequency=one-time) sponsorship tiers for some more options!
 

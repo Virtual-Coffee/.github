@@ -18,7 +18,9 @@ Right now, Virtual Coffee needs help.
 
 Our community has always been volunteer-led, but the tools and infrastructure that keep it running still cost money. We are currently unable to cover our basic expenses.
 
-Sponsoring Virtual Coffee helps us keep the community available while we work toward a more sustainable future.
+Sponsoring Virtual Coffee helps us keep the community available while we work toward a more sustainable future. 
+
+From an operating standpoint, as a community, we've worked extensively on restructuring our setup to be as lean an efficient as possible, building our own tools where possible and leveraging as many free and basic-tiered solutions as we can sustain. In the spirit of our open-source and community organised roots, we try to keep all our efforts as transparent as possible.
 
 We’re keeping our sponsor tiers simple because we don’t want to promise more work than our volunteers can realistically maintain. Your sponsorship is not buying ads, content, or promotion. It is helping to keep an independent developer community alive.
 
